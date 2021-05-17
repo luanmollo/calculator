@@ -42,14 +42,14 @@ body{
 	justify-content: space-between;
 }
 
-.num:hover, .num:active{
+.num:active{
 	background-color: lightgrey;
 }
 
-#equal:hover, #equal:active{
+#equal:active{
 	background-color: lightgreen;
 }
 
-#clear:hover, #clear:active{
+#clear:active{
 	background-color: tomato;
 }
